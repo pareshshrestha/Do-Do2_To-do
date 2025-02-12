@@ -10,3 +10,7 @@ A simple text-based to-do list application built in Python. This program allows 
 - Mark tasks as completed
 - Delete tasks or all tasks
 - Save tasks to a CSV file and load them later
+
+#Future steps
+
+-Create test files for the code
